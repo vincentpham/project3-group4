@@ -1,14 +1,12 @@
 # Project-3-Group-4
 
 -------------------------------------------------------------------------------
-
 Project 3 - US Property Value Analytics
-
 -------------------------------------------------------------------------------
 
 By: Bilal Ismael, Mohammad Islam, Vincent Pham, Erjola Lluka, Caroline Bordin
-
 -------------------------------------------------------------------------------
+
 --------------------
 Project Description
 --------------------
@@ -44,11 +42,10 @@ What did we learn?
 
 - time fixes
 
-- ---------
-
+----------
 References
+----------
 
-- ---------
 - We obtained our data from csv files pulled from various websites
 
 - US housing data was pulled from https://www.zillow.com/research/data/
