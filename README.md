@@ -23,9 +23,13 @@ Our objective is to provide a comprehensive analysis of the real estate market i
 
 
 -----------------
-Table of Contents
+Questions
 -----------------
-
+1. Which are the most expensive cities to live in the US?
+2. How are the prices changing over the 24 years?
+3. What is the average price in big metropolitan cities?
+4. What is the relationship between the population and the property prices?
+5. Where would you like to buy? 
 
 -------------------
 What did we learn?
