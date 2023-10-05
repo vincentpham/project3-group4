@@ -41,7 +41,7 @@ Technologies used
 - HTML, CSS, and Bootstrap: Utilized for frontend development and styling.
 
 -------------------
-What did we learn?
+Conclusions / What did we learn?
 -------------------
 
 - We found that pretty much any end users (homeowners) and investors alike should just buy as soon as possible. Even despite the 2008 - 2009 housing crash, time will 'repair' property value so to speak. Over the past 24 years, property value has always appreciated in value over time.
