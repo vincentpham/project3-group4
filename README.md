@@ -14,7 +14,6 @@ Project Description
 Analyzing time series data of housing prices in the US over the last 24 years. All prices will be denoted in USD.
 
 
-
 --------------------
 Objective
 --------------------
@@ -29,22 +28,30 @@ Questions
 2. How are the prices changing over the 24 years?
 3. What is the average price in big metropolitan cities?
 4. What is the relationship between the population and the property prices?
-5. Where would you like to buy? 
+5. Where would you like to buy?
+
+-------------------
+Technologies used
+-------------------
+
+- Python: Utilized for data cleaning.
+- JavaScript: Employed for backend development and data processing.
+- SQL: Used to storage data.
+- Flask API: Used to create an API for accessing property value data.
+- HTML, CSS, and Bootstrap: Utilized for frontend development and styling.
 
 -------------------
 What did we learn?
 -------------------
 - We found that pretty much any buyers and investors alike
 
-(notes, not final)
+- $64,000 minimum price
 
-    - $64,000 minimum price
-
-    - $250 million is the highest price we're aware of at the moment
-
-- Yes, we are aware of the 2008 - 2009 housing crash
-
-- time fixes
+- $250 million is the highest price we're aware of at the moment
+  
+- The cities to live in would be Buffalo, Pittsburgh,  Richmond, Johnson City, Brockpon, and New Bedford.
+- The higher property values are in Dallas, Houston, Washington, Chicago, New York.
+- There is a linear correlation between the population and the property prices. 
 
 ----------
 References
